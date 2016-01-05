@@ -1,6 +1,6 @@
 {
   "name": "artnet-node",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Brian McClain <brianmmcclain@gmail.com",
   "description": "Art-Net server and client module for Node.JS",
   "contributors": [ 
@@ -11,12 +11,16 @@
     {
         "name": "xandy",
         "email": "xandy@hackerspace-bamberg.de"
+    },
+    {
+        "name": "Michel Vergeest",
+        "email": "michelvergeest@trekwerk.com"
     }
   ],
   "main": "./main.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BrianMMcclain/artnet-node.git"
+    "url": "https://github.com/trekwerk/artnet-node.git"
   },
   "keywords": [
     "dmx",
